@@ -1,0 +1,17 @@
+{
+  "name": "jsonschema",
+  "version": "0.3.2",
+  "homepage": "https://github.com/Applifier/jsonschema",
+  "authors": [
+    "Jaakko Lukkari <jaakko@applifier.com>"
+  ],
+  "main": "lib/index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
